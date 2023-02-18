@@ -1,27 +1,21 @@
   {
             "products": [
                 {
-                "productName": "booolba2",
-                "productCost": "17"
+                "name": "apple",
+                "cost": "15"
+                },
+                {
+                "name": "butter",
+                "cost": "56.0"
                 }
                 ]
-  }
-
-
-  {
-                "productName": "booolba1",
-                "productCost": "17"
   }
 
   {
             "products": [
                 {
-                "name": "booolba2",
-                "cost": "17"
-                },
-                {
-                "name": "booolba3",
-                "cost": "18.55"
+                "name": "cheese",
+                "cost": "180.55"
                 }
                 ]
   }
